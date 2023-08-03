@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @satvikvuppala and welcome to my profile.
+- You'll repositories related to automation testing on both Web automation and Mobile automation.
